@@ -13,4 +13,3 @@ The folder structure follows the same style as the `creative` folder, typically 
 * `video`
 * `fonts`
 * `flash` (in the old days)
-s
