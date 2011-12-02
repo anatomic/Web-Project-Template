@@ -7,7 +7,7 @@ Anything that we create goes in here.  Items should be separated by their applic
 
 Flash assets are a little bit different and require a deeper folder structure, potentially something like:
 
-* `flash/``
+* `flash/`
   * `fla/` - Flash CS 5.x Pro files
   * `lib/` - Any 3rd Party code or SWCs
   * `src/` - Our code (in appropriate packages)
